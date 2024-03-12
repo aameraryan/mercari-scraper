@@ -1,0 +1,5 @@
+lxml==5.1.0
+Brotli==1.1.0
+beautifulsoup4==4.12.3
+selenium==4.18.1
+selenium-wire==5.1.0
